@@ -12,3 +12,12 @@ D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.AssemblyInfo.cs
 D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorTargetAssemblyInfo.cache
 D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.dll
 D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.pdb
+D:\GIT\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.Views.dll
+D:\GIT\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.Views.pdb
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.TagHelpers.input.cache
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.TagHelpers.output.cache
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorCoreGenerate.cache
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorTargetAssemblyInfo.cs
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.Views.pdb
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.csproj.CopyComplete
