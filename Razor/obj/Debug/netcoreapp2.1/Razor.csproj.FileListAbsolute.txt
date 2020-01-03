@@ -1,0 +1,14 @@
+D:\GIT\Razor\Razor\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\GIT\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.deps.json
+D:\GIT\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.runtimeconfig.json
+D:\GIT\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.runtimeconfig.dev.json
+D:\GIT\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.dll
+D:\GIT\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.pdb
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.csprojAssemblyReference.cache
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorAssemblyInfo.cache
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorAssemblyInfo.cs
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.AssemblyInfoInputs.cache
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.AssemblyInfo.cs
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorTargetAssemblyInfo.cache
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.dll
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.pdb
