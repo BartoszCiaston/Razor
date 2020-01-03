@@ -1,27 +1,21 @@
-﻿@model Product
+﻿@model Product[]
 
 @{
     ViewBag.Title = "Nazwa produktu";
 }
 
 
-    <div data-productid="@Model.ProductID" data-stocklevel="@ViewBag.StockLevel">
-        <p>Nazwa produktu: @Model.Name</p>
-        <p>Cena produktu: @($"{Model.Price:C2}")</p>
-        <p>Ilość w magazynie:
-        @switch ((int)ViewBag.StockLevel)
-        {
-            case 0:
-                @:brak
-                break;
-            case 1:
-            case 2:
-            case 3:
-                <b>mało (@ViewBag.StockLevel)</b>
-                break;
-            default:
-                @: @ViewBag.StockLevel in Stock
-                break;   
-        }
-        </p>
-    </div>
+    <table>
+        <thead>
+            <tr><th>Produkt</th><th>Cena</th></tr>
+        </thead>
+        <tbody>
+            @foreach (Product p in Model)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@($"{p.Price:C2}")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
