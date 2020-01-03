@@ -21,3 +21,4 @@ D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
 D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorTargetAssemblyInfo.cs
 D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.Views.pdb
 D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.csproj.CopyComplete
+D:\GIT\Razor\Razor\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
